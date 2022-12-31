@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "europe",
+        "surfaceArea": 1035000,
+        "avatar": "",
+        "population": 746.4,
+        "pays": [
+            {
+                "id": 44,
+                "name": "Italy",
+                "population": "46545",
+                "capital": "Rome",
+                "indepYear": 1871,
+                "image": ""
+            },
+            {
+                "id": 45,
+                "name": "Poland",
+                "population": "4654245",
+                "capital": "poland capital",
+                "indepYear": 1881,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "africa",
+        "surfaceArea": 30.37,
+        "avatar": "",
+        "population": 120,
+        "pays": [
+            {
+                "id": 35,
+                "name": "Maroc",
+                "population": "36000000",
+                "capital": "Rabat",
+                "indepYear": 1956,
+                "image": ""
+            },
+            {
+                "id": 33,
+                "name": "Senegal",
+                "population": "46545",
+                "capital": "Dakar wla bamako MN3RF",
+                "indepYear": 1881,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "asia",
+        "surfaceArea": 4458000,
+        "avatar": "",
+        "population": 4561000,
+        "pays": [
+            {
+                "id": 25,
+                "name": "Japan",
+                "population": "46545",
+                "capital": "Tokyo",
+                "indepYear": 1981,
+                "image": ""
+            },
+            {
+                "id": 24,
+                "name": "China",
+                "population": "465554245",
+                "capital": "China capital",
+                "indepYear": 1899,
+                "image": ""
+            }
+        ]
+    }
+]
